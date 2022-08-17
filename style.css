@@ -14,6 +14,7 @@
     width: 100%;
     margin: 0;
     padding: 0;
+  position: relative;
 }
 .div {
     display:block;
@@ -70,11 +71,6 @@
     position: relative;
     padding: 0px;
 }
-
- .row {
-  width: 100%;
-}
-
 
 /********** Desktop **********/
 @media (min-width: 992px) {
